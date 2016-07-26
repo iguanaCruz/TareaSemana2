@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TareaSemana2</string>
+    <string name="input_nombre">Nombre completo</string>
+    <string name="input_correo">Email</string>
+    <string name="input_telefono">Teléfono</string>
+    <string name="input_descripcion">Descripción de Contacto</string>
+    <string name="btn_sig">Siguiente</string>
+    <string name="btn_regresar">Editar Datos</string>
+    <string name="intent_nombre">nombre</string>
+    <string name="intent_tel">telefono</string>
+    <string name="intent_email">email</string>
+    <string name="intent_descripcion">descripcion</string>
+    <string name="intent_dia">dia</string>
+    <string name="intent_mes">mes</string>
+    <string name="intent_anio">anio</string>
+
+</resources>
